@@ -6,3 +6,4 @@ Here is the formula:
 <img width="920" alt="Screenshot 2023-12-06 112125" src="https://github.com/AdnanTheDataAnalyst/Excel_IF-Condition/assets/152249280/de09d219-0124-4f8d-968f-2c971fb83fc1">
 
 Here is the answer
+<img width="922" alt="Screenshot 2023-12-06 112322" src="https://github.com/AdnanTheDataAnalyst/Excel_IF-Condition/assets/152249280/9592820d-6bcf-4f02-8b01-c88a69757e76">
